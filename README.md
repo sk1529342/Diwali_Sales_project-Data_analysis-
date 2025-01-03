@@ -1,2 +1,4 @@
-# Diwali_Sales_project-Data_analysis-
-This project focuses on improving customer experience by identifying potential customers based on demographics like state, occupation, gender, and age. Using Pandas, Matplotlib, and Seaborn, it involves data cleaning, EDA, and customer segmentation to derive actionable insights for better decision-making.
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
